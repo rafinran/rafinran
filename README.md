@@ -44,7 +44,7 @@ Seorang mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ### Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.i(https://github-readme-stats-eight-theta.vercel.app/api?username=JBeees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)o/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -52,18 +52,17 @@ Seorang mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafinran&show_icons=true&bg_color=161616&title_color=ee5396&text_color=f2f4f8&icon_color=78a9ff&border_color=262626&hide_border=true&count_private=true"/>
 
-<!-- ![](https://github-readme-stats.shion.dev/api?username=rafinran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafinran&bg_color=161616&title_color=ee5396&text_color=f2f4f8&icon_color=78a9ff&border_color=262626&hide_border=true&layout=compact"/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafinran&theme=tokyonight&hide_border=true&layout=compact)
-
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rafinran&theme=tokyonight&hide_border=true) 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=rafinran&theme=tokyonight&hide_border=true) -->
 
 </div>
 
 ---
-
+<!--
 ## 🌐 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafin.ran)
@@ -71,6 +70,6 @@ Seorang mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
 
 ---
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafinran&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
