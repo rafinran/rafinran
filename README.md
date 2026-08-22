@@ -7,7 +7,7 @@
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-Seorang mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
+Mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
 
 ---
 
