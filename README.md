@@ -44,7 +44,7 @@ Mahasiswa yang tetarik di dunia **DevOps** dan **Backend Development**.
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ### Tools & Version Control
-![Git](https://img.shields.i(https://github-readme-stats-eight-theta.vercel.app/api?username=JBeees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)o/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Git](https://img.shields.i(https://github-readme-stats-eight-theta.vercel.app/api?username=JBeees&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)o/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
